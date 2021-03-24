@@ -24,4 +24,4 @@ If you like my personal website, you can give this repository one star ⭐
 
 - **Change Page Theme**: You can change the themes and the color of the page with one of the programs of this operating system (Which is called *Settings*) ⚙️
 
-- **Useful Features and Strong Graphics 🖌️**: There are also a lot of other useful features on this site and it has very nice graphics as well 😊
+- **Useful Features and Strong Graphics**: There are also a lot of other useful features on this site and it has very nice graphics as well 🖌️
