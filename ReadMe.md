@@ -17,3 +17,7 @@ I can almost say that if someone wants to get to know me, I give them this page 
 The summary of this source is my portfolio website which has very, very high graphics 👍
 
 If you like my personal website, you can give this repository one star ⭐
+
+## Features 🛰️
+
+
