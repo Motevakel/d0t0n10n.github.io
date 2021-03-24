@@ -21,3 +21,5 @@ If you like my personal website, you can give this repository one star ⭐
 ## Features 🛰️
 
 - **Operating System Like**: The design of this page is like an operating system. So I have considered all the characteristics of an operating system. For more information and a better understanding of this sentence, you can use the project demo 😅
+
+- **Change Page Theme**: You can change the themes and the color of the page with one of the programs of this operating system (Which is called *Settings*) ⚙️
