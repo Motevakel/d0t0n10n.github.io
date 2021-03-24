@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br></br>
-
 ## Introduction ✍️
 
 This page is to introduce me to others 😉
